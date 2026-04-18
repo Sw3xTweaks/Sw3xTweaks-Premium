@@ -1,137 +1,106 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-In%20Development-f472b6?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Version-v2.0%20Beta-818cf8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078d4?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/License-Free-34d399?style=for-the-badge" />
-
-<br/><br/>
-
 ```
-  ███████╗██╗    ██╗███████╗██╗  ██╗    ████████╗ ██████╗  ██████╗ ██╗     ███████╗
-  ██╔════╝██║    ██║██╔════╝╚██╗██╔╝    ╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██╔════╝
-  ███████╗██║ █╗ ██║█████╗   ╚███╔╝        ██║   ██║   ██║██║   ██║██║     ███████╗
-  ╚════██║██║███╗██║██╔══╝   ██╔██╗        ██║   ██║   ██║██║   ██║██║     ╚════██║
-  ███████║╚███╔███╔╝███████╗██╔╝ ██╗       ██║   ╚██████╔╝╚██████╔╝███████╗███████║
-  ╚══════╝ ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
+ ___  _    _  ___ _  _  _____  ___   ___  _    ___
+/ __|| |  | || __| \/ ||_   _|/ _ \ / _ \| |  / __|
+\__ \| |__| || _| >  <   | | | (_) | (_) | |__\__ \
+|___/|____|_||___/_/\_\  |_|  \___/ \___/|____|___/
 ```
 
-### ⚡ Windows PC Optimization Suite
-**Actively in development — v2.0 coming soon**
+<img src="https://img.shields.io/badge/🚧%20Status-In%20Development-f472b6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡%20Version-v2.0%20Beta-818cf8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🪟%20Platform-Windows%2010%2F11-0078d4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯%20Release-Coming%20Soon-fbbf24?style=for-the-badge" />
 
-[🌐 Website](https://swextweak.pages.dev) • [💬 Discord](https://discord.gg/R9S3CcvK6w) • [⬇️ Download](https://github.com/Sw3xTweaks)
+<br/>
+
+### 🔥 Free Windows PC Optimization Suite
+**Actively being built — v2.0 dropping soon**
+
+> *No ads. No subscriptions. No bloatware. Just pure performance.*
+
+[🌐 Website](https://swextweak.pages.dev) &nbsp;•&nbsp; [💬 Discord](https://discord.gg/R9S3CcvK6w) &nbsp;•&nbsp; [👤 Profile](https://github.com/Sw3xTweaks)
 
 </div>
 
 ---
 
-## 🚧 Development Status
+## 🚧 Currently In Development
 
-> **Swex Tools v2.0** is currently under active development. The application is being rebuilt from the ground up with a brand new UI, more features, and better performance.
-
-| Module | Status |
-|--------|--------|
-| 🖥️ Core UI | ✅ Complete |
-| ⚡ Optimization Engine | ✅ Complete |
-| 🎮 Game Mode | ✅ Complete |
-| 🛡️ Security & Privacy | 🔄 In Progress |
-| 🗑️ Cleanup Tools | 🔄 In Progress |
-| 🌐 Network Optimizer | 📋 Planned |
-| 📊 System Info | ✅ Complete |
-| 🔔 Notifications | 📋 Planned |
-| 🚀 Stable Release | ⏳ Coming Soon |
-
-**Overall Progress: ████████░░ 72%**
+> ⚠️ **Swex Tools has not been released yet.**
+> We are building v2.0 from the ground up with a brand new interface and more powerful features than ever.
+> **Follow this repo or join Discord to get notified the moment it drops.**
 
 ---
 
-## ✨ Features
-
-- **🎮 Game Mode** — Disable background processes, boost FPS, optimize power plan
-- **⚡ One-Click Optimization** — Apply all tweaks instantly
-- **🛡️ Security Settings** — Manage Windows Defender, Firewall, SmartScreen
-- **🔒 Privacy Controls** — Disable telemetry, location tracking, advertising ID
-- **🗑️ System Cleanup** — Clear temp files, DNS cache, event logs, prefetch
-- **🌐 Network Optimization** — TCP tweaks, Nagle algorithm, QoS settings
-- **📊 System Info** — Real-time hardware & software details
-- **🔔 Notification Manager** — Control Windows notification behavior
-- **🔧 Repair Tools** — SFC scan, DISM repair, disk check, network reset
-
----
-
-## 🖥️ Screenshots
-
-> Live preview available at [swextweak.pages.dev](https://swextweak.pages.dev)
-
-The app features a dark, modern UI with:
-- Sidebar navigation with 10 modules
-- Real-time CPU & RAM monitoring
-- Toggle-based settings (no complex menus)
-- EN/TR language support
-- Glitch animations & pink accent theme
-
----
-
-## 📦 Installation
+## ✨ What's Coming
 
 ```
-1. Download the latest release from Releases
-2. Extract the .rar file with WinRAR or 7-Zip
-3. Run SwexTools.exe as Administrator
-4. No installation required — portable app
+  🎮  Game Mode          →  Kill background tasks, boost FPS, optimize power
+  ⚡  Optimization       →  One-click system tweaks, registry cleanup
+  🛡️  Security           →  Defender, Firewall, SmartScreen controls
+  🔒  Privacy            →  Disable telemetry, location, advertising ID
+  🗑️  Cleanup            →  Temp files, DNS cache, event logs, prefetch
+  🌐  Network            →  TCP tweaks, Nagle algorithm, QoS settings
+  📊  System Info        →  Real-time CPU, RAM, GPU, disk details
+  🔧  Repair Tools       →  SFC scan, DISM repair, network reset
+  🔔  Notifications      →  Full Windows notification control
 ```
 
-> ⚠️ Windows may show a SmartScreen warning. This is a false positive.
-> The app is scanned clean on VirusTotal.
+---
+
+## 📊 Development Progress
+
+| Module | Status | Notes |
+|--------|--------|-------|
+| 🖥️ Core UI | ✅ Complete | Dark theme, EN/TR support |
+| ⚡ Optimization Engine | ✅ Complete | 8+ tweaks ready |
+| 🎮 Game Mode | ✅ Complete | 6 toggles |
+| 📊 System Info | ✅ Complete | Live hardware data |
+| 🛡️ Security & Privacy | 🔄 In Progress | — |
+| 🗑️ Cleanup Tools | 🔄 In Progress | — |
+| 🌐 Network Optimizer | 📋 Planned | — |
+| 🔔 Notifications | 📋 Planned | — |
+| 🚀 **Stable Release** | ⏳ **Soon™** | — |
+
+<div align="center">
+
+```
+  ██████████████████░░░░  72%  — Almost there...
+```
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Release
 
-| Layer | Technology |
-|-------|-----------|
-| App | C# / WinForms / WPF |
-| Website | HTML, CSS, Vanilla JS |
-| Backend | Supabase (PostgreSQL) |
-| Auth | Discord OAuth2 |
-| Hosting | Netlify / Cloudflare Pages |
-
----
-
-## 📋 Roadmap
-
-- [x] Core optimization engine
-- [x] Game Mode module
-- [x] System Info reader
-- [ ] Security & Privacy module *(in progress)*
-- [ ] Auto-update system
-- [ ] Backup & restore tweaks
-- [ ] Dark/Light theme toggle
-- [ ] v2.0 stable release
+> **❌ No download available yet.**
+> The app is still being developed. When it's ready, it will be:
+> - 100% Free
+> - No installation required (portable)
+> - Clean on VirusTotal
+> - Available right here on GitHub
 
 ---
 
 ## 💬 Community
 
-Join the Discord server for:
-- Early access to beta builds
-- Bug reports & feature requests
-- Support & help
+Join the Discord to get early access, see dev previews and suggest features.
 
-[![Discord](https://img.shields.io/discord/1234567890?color=5865f2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/R9S3CcvK6w)
+<div align="center">
 
----
+[![Discord](https://img.shields.io/badge/Join%20the%20Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/R9S3CcvK6w)
+[![Website](https://img.shields.io/badge/Visit%20Website-f472b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://swextweak.pages.dev)
 
-## ⚠️ Disclaimer
-
-Swex Tools modifies Windows registry and system settings. While all changes are reversible, use at your own risk. Always create a system restore point before applying tweaks.
+</div>
 
 ---
 
 <div align="center">
 
-**© 2025 Swex — All rights reserved**
+**© 2025 Swex &nbsp;|&nbsp; Free forever &nbsp;|&nbsp; No ads &nbsp;|&nbsp; No subscriptions**
 
-*Free forever. No ads. No subscriptions.*
+*Built with ❤️ for the Windows community*
 
 </div>
